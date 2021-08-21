@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Lalo Rivero 👋👩‍💻
+
+Backend Developer with Python, Frontend Developer with Js. Mechatronic Engineer, Computer Science Teacher at High School, Multiplatform software Development teacher at University. Always learning. Very passionate about sharing with others and solving problems. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
