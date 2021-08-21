@@ -36,4 +36,10 @@
 
 <br/>
 
-https://github-readme-stats.vercel.app/api?username=LaloRivero&show_icons=true&theme=synthwave
+<h3>Stats</h3>
+<p><a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaloRivero&show_icons=true&theme=synthwave" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaloRivero&theme=synthwave&layout=compact" />
+</a>
+</p>
+
