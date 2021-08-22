@@ -40,8 +40,8 @@ Backend Developer with Python, Frontend Developer with Js. Mechatronic Engineer,
 
 <h3>Stats</h3>
 <p><a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaloRivero&show_icons=true&theme=synthwave" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaloRivero&theme=synthwave&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaloRivero&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaloRivero&theme=dark&layout=compact" />
 </a>
 </p>
 
