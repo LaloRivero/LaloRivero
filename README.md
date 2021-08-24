@@ -17,7 +17,6 @@ Backend Developer with Python, Frontend Developer with Js. Mechatronic Engineer,
   ![Vue](https://shields.io/badge/-VueJs-333333?style=flat&logo=Javascript&color=151515&labelColor=2d2d2d)
  
  - 👩‍💻 Backend Technologies &nbsp;
-    ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&color=151515&labelColor=2d2d2d)
     ![Django](https://shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=00a56b&color=151515&labelColor=2d2d2d)
     ![Flask](https://shields.io/badge/-Flask-333333?style=flat&logo=Flask&color=151515&labelColor=2d2d2d)
   
