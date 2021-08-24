@@ -1,8 +1,8 @@
-### Hi, I'm Eduardo Rivero 👋👩‍💻
+## Hi, I'm Eduardo Rivero 👋👩‍💻
 
-Backend Developer with Python, Frontend Developer with Js. Mechatronic Engineer, Computer Science Teacher at High School, Multiplatform software Development teacher at University. Always learning. Very passionate about sharing with others and solving problems. 
+#### Backend Developer with Python, Frontend Developer with Js. Mechatronic Engineer, Computer Science Teacher at High School, Multiplatform software Development teacher at University. Always learning. Very passionate about sharing with others and solving problems. 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h4> 🛠 &nbsp;Tech Stack</h4>
 
 - 💻 Programing languages &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=151515&labelColor=2d2d2d)
@@ -37,7 +37,7 @@ Backend Developer with Python, Frontend Developer with Js. Mechatronic Engineer,
 
 <br/>
 
-<h3>Stats</h3>
+<h4>Stats</h4>
 <p><a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaloRivero&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaloRivero&theme=dark&layout=compact" />
