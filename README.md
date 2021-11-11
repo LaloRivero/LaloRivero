@@ -33,7 +33,6 @@
 - 🖥 Design &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop&color=151515&labelColor=2d2d2d)
   ![LightRoom](https://img.shields.io/badge/-LightRoom-333333?style=flat&logo=adobe-Lightroom&color=151515&labelColor=2d2d2d)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator&color=151515&labelColor=2d2d2d)
 
 <br/>
 
